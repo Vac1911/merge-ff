@@ -1,9 +1,8 @@
 FROM alpine:latest
 
-LABEL repository="http://github.com/robotology/gh-action-nightly-merge"
-LABEL homepage="http://github.com/robotology/gh-action-nightly-merge"
-LABEL "com.github.actions.name"="Nightly Merge"
-LABEL "com.github.actions.description"="Automatically merge the stable branch into the development one."
+LABEL repository="https://github.com/Vac1911/merge-ff"
+LABEL homepage="https://github.com/Vac1911/merge-ff"
+LABEL "com.github.actions.name"="Merge FF"
 LABEL "com.github.actions.icon"="git-merge"
 LABEL "com.github.actions.color"="orange"
 
