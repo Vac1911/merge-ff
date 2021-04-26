@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v1
 
     - name: Merge FF
-      uses: Vac1911/merge-ff
+      uses: Vac1911/merge-ff@v1
       with:
         from_branch: 'dev'
         to_branch: 'main'
